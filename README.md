@@ -1,3 +1,3 @@
 # PlayConnect
 Sports Venue Booking Application
-Rar file contain all files(including project documentation) to run this project.
+PlayConnect aims to revolutionize the sports venue booking experience by providing an intuitive Android application that allows users to effortlessly find, book, and pay for sports venues online. 
